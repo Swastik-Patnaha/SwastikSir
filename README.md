@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi 👋,I'm Swastik 
 
-<!--
-**SwastikSir/SwastikSir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  👀 I'm Interested in Full Stack Development
+- 🌱 I’m currently learning Spring Boot and MERN stack
+- 👯 I’m looking to collaborate on development
+- 🤔 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 To reach me: [patnahaswastik@gmail.com](mailto:patnahaswastik@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Everytime learning something
+
+ 
+### 💻 Programming Languages:
+- Java SE
+- C/C++
+- JavaScript
+- HTML/CSS
+
+
+### 🛢 Database
+- SQL
+- Mongodb
+
+
+### 🌐 Frontend Development
+- HTML
+- CSS
+- Reactjs
+
+
+### 📫 Connect with me 
+- 💼 [LinkedIn](https://linkedin.com/in/swastik-patnaha-03318629)
+- 💻 [LeetCode](https://leetcode.com/swastikdada)
