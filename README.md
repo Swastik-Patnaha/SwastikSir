@@ -4,8 +4,6 @@
   👀 I'm Interested in Full Stack Development
 - 🌱 I’m currently learning Spring Boot and MERN stack
 - 👯 I’m looking to collaborate on development
-- 🤔 
-- 💬 Ask me about ...
 - 📫 To reach me: [patnahaswastik@gmail.com](mailto:patnahaswastik@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Everytime learning something
