@@ -24,8 +24,12 @@
 ### 🌐 Frontend Development
 - HTML
 - CSS
-- Reactjs
-
+- JavaScript
+  
+### 🌐 Backend Development
+Springboot
+Microservices
+RestAPIs
 
 ### 📫 Connect with me 
 - 💼 [LinkedIn](https://linkedin.com/in/swastik-patnaha-03318629)
